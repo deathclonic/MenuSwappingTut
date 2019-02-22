@@ -1,0 +1,1450 @@
+﻿Log file open, 02/10/19 03:19:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MenuTemplateMP
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305356
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.153s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: A:/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.02.10-09.19.58:405][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.02.10-09.19.58:406][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.02.10-09.19.58:407][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.10-09.19.58:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.10-09.19.58:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:409][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:431][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.10-09.19.58:431][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.10-09.19.58:432][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.10-09.19.58:433][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.10-09.19.58:434][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.10-09.19.58:434][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.10-09.19.58:434][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.10-09.19.58:454][  0]LogHAL: Display: Platform has ~ 32 GB [34305929216 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.10-09.19.58:454][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.10-09.19.58:455][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.10-09.19.58:455][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.10-09.19.58:455][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.10-09.19.58:456][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.10-09.19.58:457][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Scalability.ini]
+[2019.02.10-09.19.58:458][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.10-09.19.58:458][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.10-09.19.58:458][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.10-09.19.58:459][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.10-09.19.58:459][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Config/Windows/Engine.ini]
+[2019.02.10-09.19.58:460][  0]LogInit: Computer: DESKTOP-N53GCT6
+[2019.02.10-09.19.58:460][  0]LogInit: User: death
+[2019.02.10-09.19.58:460][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.10-09.19.58:460][  0]LogInit: High frequency timer resolution =3.906264 MHz
+[2019.02.10-09.19.58:460][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.02.10-09.19.58:461][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.10-09.19.58:461][  0]LogMemory: Process Physical Memory: 102.77 MB used, 102.77 MB peak
+[2019.02.10-09.19.58:461][  0]LogMemory: Process Virtual Memory: 89.90 MB used, 89.90 MB peak
+[2019.02.10-09.19.58:461][  0]LogMemory: Physical Memory: 13181.39 MB used,  19535.29 MB free, 32716.68 MB total
+[2019.02.10-09.19.58:461][  0]LogMemory: Virtual Memory: 4651.09 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.10-09.19.58:520][  0]LogInit: Using OS detected language (en-US).
+[2019.02.10-09.19.58:520][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.10-09.19.58:523][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.10-09.19.59:148][  0]LogStreaming: Display: Took  0.628s to InitEngineTextLocalization.
+[2019.02.10-09.19.59:148][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.10-09.19.59:239][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.10-09.19.59:239][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.10-09.20.00:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.10-09.20.00:505][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.10-09.20.00:683][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.10-09.20.00:683][  0]LogD3D11RHI:       8088/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.10-09.20.00:688][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.10-09.20.00:688][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.10-09.20.00:688][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.10-09.20.00:708][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.10-09.20.00:708][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.10-09.20.00:708][  0]LogWindows: EnumDisplayDevices:
+[2019.02.10-09.20.00:708][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.02.10-09.20.00:709][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.02.10-09.20.00:710][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.10-09.20.00:712][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.10-09.20.00:713][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.10-09.20.00:713][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.10-09.20.00:713][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.02.10-09.20.00:713][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.02.10-09.20.00:713][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.02.10-09.20.00:802][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.10-09.20.00:835][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.10-09.20.01:915][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.10-09.20.01:945][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.10-09.20.01:980][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.10-09.20.02:017][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.10-09.20.02:048][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.10-09.20.02:078][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.10-09.20.02:111][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.10-09.20.02:146][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.10-09.20.02:157][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-09.20.02:237][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.10-09.20.02:308][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.10-09.20.02:308][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.10-09.20.02:338][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.10-09.20.02:338][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.10-09.20.02:353][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.10-09.20.02:370][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.10-09.20.02:385][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.10-09.20.02:406][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.10-09.20.02:463][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.10-09.20.02:463][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.10-09.20.02:463][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.10-09.20.02:567][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Intermediate/Shaders/WorkingDirectory/24072/).
+[2019.02.10-09.20.02:567][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/death/AppData/Local/Temp/UnrealShaderWorkingDir/9FAAFBCC40216597E17B9AB524C29737/'.
+[2019.02.10-09.20.02:571][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.10-09.20.02:571][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.10-09.20.02:571][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.10-09.20.03:296][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.10-09.20.03:364][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.10-09.20.03:364][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.10-09.20.03:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.10-09.20.03:364][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.10-09.20.03:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.10-09.20.03:364][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.10-09.20.03:377][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.10-09.20.03:377][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.10-09.20.03:377][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.10-09.20.03:389][  0]LogDerivedDataCache: Using Local data cache path C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.10-09.20.03:389][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.10-09.20.03:389][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.10-09.20.03:411][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.10-09.20.03:412][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.10-09.20.03:416][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.10-09.20.03:671][  0]LogAssetRegistry: FAssetRegistry took 0.0383 seconds to start up
+[2019.02.10-09.20.04:042][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.10-09.20.04:246][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.10-09.20.04:253][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.10-09.20.04:253][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.10-09.20.04:253][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.10-09.20.04:253][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.10-09.20.04:270][  0]LogNetVersion: MenuTemplateMP 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 65576335)
+[2019.02.10-09.20.04:912][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.101656 seconds
+[2019.02.10-09.20.04:918][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.10-09.20.04:918][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.10-09.20.04:918][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.10-09.20.07:431][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.10-09.20.07:445][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.10-09.20.09:887][  0]SourceControl: Source control is disabled
+[2019.02.10-09.20.09:887][  0]SourceControl: Source control is disabled
+[2019.02.10-09.20.09:890][  0]SourceControl: Source control is disabled
+[2019.02.10-09.20.09:892][  0]SourceControl: Source control is disabled
+[2019.02.10-09.20.10:122][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.10-09.20.10:258][  0]LogOcInput: OculusInput pre-init called
+[2019.02.10-09.20.10:411][  0]LogEngine: Initializing Engine...
+[2019.02.10-09.20.10:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.10-09.20.10:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.10-09.20.10:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.10-09.20.10:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.10-09.20.10:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.10-09.20.10:683][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.10-09.20.10:704][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.10-09.20.10:818][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.20.10:839][  0]LogInit: FAudioDevice initialized.
+[2019.02.10-09.20.10:839][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.10-09.20.10:932][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.10-09.20.10:952][  0]LogInit: Texture streaming: Enabled
+[2019.02.10-09.20.10:985][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.10-09.20.11:008][  0]LogInit: Transaction tracking system initialized
+[2019.02.10-09.20.11:057][  0]BlueprintLog: New page: Editor Load
+[2019.02.10-09.20.11:190][  0]LocalizationService: Localization service is disabled
+[2019.02.10-09.20.11:793][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.10-09.20.11:794][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.10-09.20.11:794][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.10-09.20.11:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.10-09.20.11:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.10-09.20.11:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.10-09.20.11:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.10-09.20.12:044][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/MenuTemplateMP/MenuTemplateMP/Content/' took 0.03s
+[2019.02.10-09.20.12:044][  0]SourceControl: Source control is disabled
+[2019.02.10-09.20.12:044][  0]Cmd: MAP LOAD FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Maps/TestMap/TestMap_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.10-09.20.12:045][  0]LightingResults: New page: Lighting Build
+[2019.02.10-09.20.12:050][  0]MapCheck: New page: Map Check
+[2019.02.10-09.20.12:050][  0]LightingResults: New page: Lighting Build
+[2019.02.10-09.20.12:824][  0]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.20.12:832][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.10-09.20.12:856][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.10-09.20.12:857][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2019.02.10-09.20.12:857][  0]LogFileHelpers: Loading map 'TestMap_P' took 0.813
+[2019.02.10-09.20.13:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.20.13:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.20.13:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.20.13:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.20.14:795][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.10-09.20.14:880][  0]LogSlate: Took 0.001193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.10-09.20.15:378][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MenuTemplateMP
+[2019.02.10-09.20.15:379][  0]LogTemp: CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.10-09.20.15:379][  0]LogTemp: Initial Dir: A:\Game Design\UE4\Epic Games\UE_4.21
+[2019.02.10-09.20.15:379][  0]LogTemp: Env CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.10-09.20.15:379][  0]LogTemp: BranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries
+[2019.02.10-09.20.15:379][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\death\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.10-09.20.15:379][  0]LogCollectionManager: Loaded 0 collections in 0.003208 seconds
+[2019.02.10-09.20.15:419][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/MenuTemplateMP/MenuTemplateMP/Saved/Collections/' took 0.01s
+[2019.02.10-09.20.15:420][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/MenuTemplateMP/MenuTemplateMP/Content/Developers/death/Collections/' took 0.01s
+[2019.02.10-09.20.15:420][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/MenuTemplateMP/MenuTemplateMP/Content/Collections/' took 0.01s
+[2019.02.10-09.20.15:420][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.10-09.20.15:429][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2651 classes and 620 folders.
+[2019.02.10-09.20.15:439][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.10-09.20.15:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.10-09.20.15:656][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.10-09.20.15:675][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.02.10-09.20.15:687][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.02.10-09.20.15:710][  0]LogSlate: Took 0.001197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.10-09.20.15:715][  0]LogSlate: Took 0.001424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.10-09.20.15:829][  0]LogRenderer: Reallocating scene render targets to support 1608x744 Format 10 NumSamples 1 (Frame:1).
+[2019.02.10-09.20.15:972][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.02.10-09.20.15:973][  0]LogLoad: (Engine Initialization) Total time: 22.22 seconds
+[2019.02.10-09.20.15:973][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.10-09.20.16:619][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.10-09.20.16:800][  3]LogAssetRegistry: Asset discovery search completed in 13.1499 seconds
+[2019.02.10-09.20.16:802][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.10-09.20.16:802][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000153 seconds (updated 0 objects)
+[2019.02.10-09.20.17:444][  5]LogSlate: Took 0.000877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.10-09.20.44:834][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-09.20.48:301][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Widgets/WBP_Multiplayer.WBP_Multiplayer
+[2019.02.10-09.20.48:817][485]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.02.10-09.20.49:640][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Framework/Core/Engine/BP_CorePlayerController.BP_CorePlayerController
+[2019.02.10-09.20.50:050][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Widgets/WBP_MainMenu.WBP_MainMenu
+[2019.02.10-09.20.50:409][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Widgets/WBP_Options.WBP_Options
+[2019.02.10-09.20.50:790][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Widgets/WBP_SinglePlayer.WBP_SinglePlayer
+[2019.02.10-09.20.51:155][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Widgets/WBP_SplitScreen.WBP_SplitScreen
+[2019.02.10-09.20.51:535][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Widgets/WBP_Template.WBP_Template
+[2019.02.10-09.20.51:906][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget
+[2019.02.10-09.20.52:858][485]LogSlate: Took 0.000966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.10-09.20.56:401][826]LogSlate: Took 0.001298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.10-09.21.00:672][181]LogSlate: Window 'BP_CorePlayerController' being destroyed
+[2019.02.10-09.21.03:173][432]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.21.03:213][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.21.03:213][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.21.03:213][432]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:21:03 PM)
+[2019.02.10-09.21.03:228][432]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.21.03:232][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003381s)
+[2019.02.10-09.21.03:233][432]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.21.03:233][432]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.02.10-09.21.03:233][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004414s)
+[2019.02.10-09.21.03:316][432]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.21.03:326][432]LogInit: FAudioDevice initialized.
+[2019.02.10-09.21.03:371][432]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.21.03:372][432]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.21.03
+[2019.02.10-09.21.03:373][432]LogWorld: Bringing up level for play took: 0.000987
+[2019.02.10-09.21.03:395][432]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.02.10-09.21.03:398][432]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.738
+[2019.02.10-09.21.03:398][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.21.03:456][433]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.21.03:482][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.21.04:754][556]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.21.04:754][556]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.21.04:781][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.21.05:687][641]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.21.05:687][641]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.21.05:706][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.21.06:072][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.21.06:072][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.21.06:106][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.21.06:106][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.21.06:145][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.21.06:193][677]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.10-09.30.19:197][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Framework/Maps/TestMap/TestMap_P' took 0.042
+[2019.02.10-09.30.19:199][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Widgets/WBP_MainMenu] ([1] browsable assets)...
+[2019.02.10-09.30.19:200][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Widgets/WBP_MainMenu]
+[2019.02.10-09.30.19:249][287]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenu_Auto1E3C646124A1C79ACDC05A4AAA860281E.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/Autosaves/Game/Framework/Widgets/WBP_MainMenu_Auto1.uasset'
+[2019.02.10-09.30.19:252][287]LogFileHelpers: Auto-saving content packages took 0.053
+[2019.02.10-09.32.08:207][785]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.32.08:784][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-09.32.08:833][829]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer999CA4E14FE597BDDC6C73AACCB975F7.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-09.32.09:943][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.32.09:979][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.32.09:979][940]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-09.32.09:990][940]LogPlayLevel: [PlayLevel] Compiling WBP_MainMenu before play...
+[2019.02.10-09.32.10:195][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2019.02.10-09.32.10:195][940]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:32:10 PM)
+[2019.02.10-09.32.10:196][940]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.32.10:199][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2019.02.10-09.32.10:200][940]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.32.10:200][940]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.02.10-09.32.10:200][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004024s)
+[2019.02.10-09.32.10:279][940]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.32.10:289][940]LogInit: FAudioDevice initialized.
+[2019.02.10-09.32.10:297][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.32.10:328][940]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.32.10:330][940]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.32.10
+[2019.02.10-09.32.10:331][940]LogWorld: Bringing up level for play took: 0.001877
+[2019.02.10-09.32.10:349][940]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.213
+[2019.02.10-09.32.10:349][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.32.10:374][940]LogRenderer: Reallocating scene render targets to support 1608x756 Format 10 NumSamples 1 (Frame:1).
+[2019.02.10-09.32.10:452][941]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.32.10:463][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.32.12:112][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.32.13:585][232]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.32.13:585][232]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.32.13:608][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.32.15:295][381]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.32.15:295][381]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.32.15:314][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.32.16:600][500]LogSlate: Window 'MenuTemplateMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.10-09.32.16:605][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.32.16:642][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.32.16:642][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.32.16:742][501]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.10-09.35.36:071][ 28]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.35.38:023][219]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.35.41:107][381]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-09.35.41:137][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-09.35.41:200][381]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuC5EF69EE4B6E01ED70A9A69453CC09F1.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-09.35.41:209][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-09.35.41:251][381]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer952907B2426C7E9B7E9E5B80F5CAFE47.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-09.35.42:139][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.35.42:175][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.35.42:175][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.35.42:175][456]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:35:42 PM)
+[2019.02.10-09.35.42:176][456]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.35.42:180][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003866s)
+[2019.02.10-09.35.42:181][456]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.35.42:181][456]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.02.10-09.35.42:181][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004673s)
+[2019.02.10-09.35.42:260][456]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.35.42:270][456]LogInit: FAudioDevice initialized.
+[2019.02.10-09.35.42:307][456]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.35.42:309][456]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.35.42
+[2019.02.10-09.35.42:309][456]LogWorld: Bringing up level for play took: 0.001317
+[2019.02.10-09.35.42:324][456]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.188
+[2019.02.10-09.35.42:324][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.35.42:378][457]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.35.42:461][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.35.43:592][568]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.35.43:592][568]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.35.43:612][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.35.44:858][684]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.35.44:858][684]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.35.44:883][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.35.46:060][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.35.46:060][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.35.46:096][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.35.46:096][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.35.46:136][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.35.46:189][796]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.10-09.36.24:762][722]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.36.37:627][954]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.37.47:016][229]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.37.48:697][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.37.48:737][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.37.48:738][375]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-09.37.48:751][375]LogPlayLevel: [PlayLevel] Compiling WBP_MainMenu before play...
+[2019.02.10-09.37.48:963][375]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2019.02.10-09.37.48:963][375]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:37:48 PM)
+[2019.02.10-09.37.48:963][375]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.37.48:966][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002976s)
+[2019.02.10-09.37.48:967][375]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.37.48:967][375]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.02.10-09.37.48:967][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003580s)
+[2019.02.10-09.37.49:044][375]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.37.49:054][375]LogInit: FAudioDevice initialized.
+[2019.02.10-09.37.49:089][375]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.37.49:091][375]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.37.49
+[2019.02.10-09.37.49:091][375]LogWorld: Bringing up level for play took: 0.000967
+[2019.02.10-09.37.49:104][375]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.969
+[2019.02.10-09.37.49:104][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.37.49:145][376]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.37.49:169][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.37.50:431][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.37.52:657][692]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.37.52:657][692]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.37.52:667][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.37.55:815][973]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.37.55:815][973]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.37.55:825][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.37.58:945][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.37.58:945][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.37.58:983][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.37.58:984][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.37.59:020][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.37.59:070][251]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.02.10-09.40.40:538][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Framework/Maps/TestMap/TestMap_P' took 0.043
+[2019.02.10-09.40.40:539][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Widgets/WBP_MainMenu] ([1] browsable assets)...
+[2019.02.10-09.40.40:539][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Widgets/WBP_MainMenu]
+[2019.02.10-09.40.40:581][ 31]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenu_Auto2F6555A3144E1E2D7891CABBF25B62EF0.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/Autosaves/Game/Framework/Widgets/WBP_MainMenu_Auto2.uasset'
+[2019.02.10-09.40.40:584][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Widgets/WBP_SinglePlayer] ([1] browsable assets)...
+[2019.02.10-09.40.40:584][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Widgets/WBP_SinglePlayer]
+[2019.02.10-09.40.40:627][ 31]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer_Auto2CAC80CC343DC068FB4203DB62C08AF4D.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/Autosaves/Game/Framework/Widgets/WBP_SinglePlayer_Auto2.uasset'
+[2019.02.10-09.40.40:630][ 31]LogFileHelpers: Auto-saving content packages took 0.092
+[2019.02.10-09.46.22:235][450]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.46.28:722][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-09.46.28:772][181]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayerA4ED78FC41933F8281D8AC8AF83271EB.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-09.46.30:100][317]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.46.30:552][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-09.46.30:596][354]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuC06E124845B8B8AF06ED23B8738F9513.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-09.46.32:978][587]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.46.33:010][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.33:010][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.46.33:010][587]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:46:33 PM)
+[2019.02.10-09.46.33:011][587]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.46.33:014][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003118s)
+[2019.02.10-09.46.33:015][587]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.46.33:015][587]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.02.10-09.46.33:015][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003906s)
+[2019.02.10-09.46.33:089][587]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.46.33:100][587]LogInit: FAudioDevice initialized.
+[2019.02.10-09.46.33:130][587]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.46.33:131][587]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.46.33
+[2019.02.10-09.46.33:132][587]LogWorld: Bringing up level for play took: 0.001071
+[2019.02.10-09.46.33:146][587]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 1.01
+[2019.02.10-09.46.33:146][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.33:193][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.46.34:108][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.46.35:401][807]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.46.35:401][807]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.46.35:419][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.46.35:470][814]LogScript: Warning: Accessed None trying to read property WidgetToFocus
+	WBP_SinglePlayer_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_4.WBP_SinglePlayer_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.46.37:572][ 20]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.46.37:572][ 20]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.46.37:591][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.46.37:663][ 29]LogScript: Warning: Accessed None trying to read property WidgetToFocus
+	WBP_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_4.WBP_MainMenu_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.46.38:432][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.46.38:432][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.38:468][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.46.38:469][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.38:505][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.46.38:556][105]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.02.10-09.46.51:745][476]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.46.54:914][773]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.46.54:948][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.54:948][773]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-09.46.54:958][773]LogPlayLevel: [PlayLevel] Compiling WBP_MainMenu before play...
+[2019.02.10-09.46.55:169][773]LogPlayLevel: PlayLevel: Blueprint regeneration took 221 ms (1 blueprints)
+[2019.02.10-09.46.55:169][773]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:46:55 PM)
+[2019.02.10-09.46.55:170][773]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.46.55:173][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003205s)
+[2019.02.10-09.46.55:174][773]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.46.55:174][773]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.02.10-09.46.55:174][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003825s)
+[2019.02.10-09.46.55:246][773]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.46.55:256][773]LogInit: FAudioDevice initialized.
+[2019.02.10-09.46.55:286][773]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.46.55:287][773]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.46.55
+[2019.02.10-09.46.55:288][773]LogWorld: Bringing up level for play took: 0.000923
+[2019.02.10-09.46.55:301][773]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 1.165
+[2019.02.10-09.46.55:301][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.55:336][774]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.46.56:100][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.46.56:488][886]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.46.56:488][886]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.46.56:507][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.46.56:572][894]LogScript: Warning: Accessed None trying to read property WidgetToFocus
+	WBP_SinglePlayer_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_5.WBP_SinglePlayer_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.46.57:741][  6]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.46.57:741][  6]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.46.57:761][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.46.57:834][ 15]LogScript: Warning: Accessed None trying to read property WidgetToFocus
+	WBP_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_5.WBP_MainMenu_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.46.58:947][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.46.58:947][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.58:983][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.46.58:983][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.46.59:021][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.46.59:074][124]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.02.10-09.47.18:525][652]LogSlate: Took 0.000877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.10-09.47.24:767][199]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.02.10-09.47.31:503][950]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.10-09.47.33:637][201]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.47.33:698][201]LogBlueprint: Error: [Compiler WBP_Multiplayer] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.47.33:700][201]LogBlueprint: Error: [Compiler WBP_Options] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.47.33:704][201]LogBlueprint: Error: [Compiler WBP_SplitScreen] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.47.33:706][201]LogBlueprint: Error: [Compiler WBP_Template] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.47.33:720][201]LogBlueprint: Warning: [Compiler WBP_Multiplayer] [1659.97] Compile of WBP_Multiplayer failed. 1 Fatal Issue(s) 0 Warning(s) [in 80 ms] (/Game/Framework/Widgets/WBP_Multiplayer.WBP_Multiplayer)
+[2019.02.10-09.47.33:720][201]LogBlueprint: Warning: [Compiler WBP_Options] [1659.97] Compile of WBP_Options failed. 1 Fatal Issue(s) 0 Warning(s) [in 80 ms] (/Game/Framework/Widgets/WBP_Options.WBP_Options)
+[2019.02.10-09.47.33:721][201]LogBlueprint: Warning: [Compiler WBP_SplitScreen] [1659.97] Compile of WBP_SplitScreen failed. 1 Fatal Issue(s) 0 Warning(s) [in 80 ms] (/Game/Framework/Widgets/WBP_SplitScreen.WBP_SplitScreen)
+[2019.02.10-09.47.33:721][201]LogBlueprint: Warning: [Compiler WBP_Template] [1659.97] Compile of WBP_Template failed. 1 Fatal Issue(s) 0 Warning(s) [in 80 ms] (/Game/Framework/Widgets/WBP_Template.WBP_Template)
+[2019.02.10-09.47.37:414][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/Engine/WBP_CoreWidget" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset" SILENT=true
+[2019.02.10-09.47.37:441][605]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_CoreWidgetB2410EDA4484342D6AD53CBC36A352A0.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset'
+[2019.02.10-09.47.39:681][851]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.47.40:271][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-09.47.40:316][889]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuC36A0464432501D63B878BB0FE86033D.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-09.48.48:128][244]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.48.48:751][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-09.48.48:795][282]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuC11FDC2E455DE024628C3FBEEAD2B3F4.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-09.48.50:102][407]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.48.50:637][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-09.48.50:682][436]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer4AC5D95F478B18B0F19379A43DEE7824.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-09.49.49:486][825]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.49.49:545][825]LogBlueprint: Error: [Compiler WBP_Multiplayer] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.49.49:546][825]LogBlueprint: Error: [Compiler WBP_Options] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.49.49:550][825]LogBlueprint: Error: [Compiler WBP_SplitScreen] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.49.49:552][825]LogBlueprint: Error: [Compiler WBP_Template] In use pin  Widget to Focus  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.02.10-09.49.49:565][825]LogBlueprint: Warning: [Compiler WBP_Multiplayer] [1795.81] Compile of WBP_Multiplayer failed. 1 Fatal Issue(s) 0 Warning(s) [in 76 ms] (/Game/Framework/Widgets/WBP_Multiplayer.WBP_Multiplayer)
+[2019.02.10-09.49.49:566][825]LogBlueprint: Warning: [Compiler WBP_Options] [1795.81] Compile of WBP_Options failed. 1 Fatal Issue(s) 0 Warning(s) [in 76 ms] (/Game/Framework/Widgets/WBP_Options.WBP_Options)
+[2019.02.10-09.49.49:566][825]LogBlueprint: Warning: [Compiler WBP_SplitScreen] [1795.81] Compile of WBP_SplitScreen failed. 1 Fatal Issue(s) 0 Warning(s) [in 76 ms] (/Game/Framework/Widgets/WBP_SplitScreen.WBP_SplitScreen)
+[2019.02.10-09.49.49:566][825]LogBlueprint: Warning: [Compiler WBP_Template] [1795.81] Compile of WBP_Template failed. 1 Fatal Issue(s) 0 Warning(s) [in 77 ms] (/Game/Framework/Widgets/WBP_Template.WBP_Template)
+[2019.02.10-09.49.51:515][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.49.51:548][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.49.51:548][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.49.56:114][ 25]LogSlate: Window 'Message' being destroyed
+[2019.02.10-09.50.10:347][680]BlueprintLog: New page: Compile WBP_Multiplayer
+[2019.02.10-09.50.18:019][439]BlueprintLog: New page: Compile WBP_Options
+[2019.02.10-09.50.29:228][529]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-09.50.29:254][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/Engine/WBP_CoreWidget" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset" SILENT=true
+[2019.02.10-09.50.29:278][529]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_CoreWidget244D1606497AAEB8C67844B0ACC2CA28.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset'
+[2019.02.10-09.50.29:287][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Multiplayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Multiplayer.uasset" SILENT=true
+[2019.02.10-09.50.29:326][529]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_Multiplayer79072B514CFC0F46EB680E9D0B2E8CEA.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Multiplayer.uasset'
+[2019.02.10-09.50.29:348][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Options" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Options.uasset" SILENT=true
+[2019.02.10-09.50.29:401][529]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_Options1234218A495566F182BF228C0B294E1E.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Options.uasset'
+[2019.02.10-09.50.29:410][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SplitScreen" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SplitScreen.uasset" SILENT=true
+[2019.02.10-09.50.29:451][529]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SplitScreen0B84672E4F0CA7B0CD30AF894259F888.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SplitScreen.uasset'
+[2019.02.10-09.50.29:462][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Template" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Template.uasset" SILENT=true
+[2019.02.10-09.50.29:495][529]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_Template9848B2E944126F69B9826E8BD990C0D6.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Template.uasset'
+[2019.02.10-09.50.30:317][605]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.50.30:350][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.50.30:351][605]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-09.50.30:359][605]LogPlayLevel: [PlayLevel] Compiling WBP_SplitScreen before play...
+[2019.02.10-09.50.30:520][605]LogPlayLevel: [PlayLevel] Compiling WBP_Template before play...
+[2019.02.10-09.50.30:740][605]LogPlayLevel: PlayLevel: Blueprint regeneration took 389 ms (2 blueprints)
+[2019.02.10-09.50.30:740][605]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:50:30 PM)
+[2019.02.10-09.50.30:741][605]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.50.30:745][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003954s)
+[2019.02.10-09.50.30:745][605]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.50.30:746][605]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.02.10-09.50.30:746][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004776s)
+[2019.02.10-09.50.30:817][605]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.50.30:827][605]LogInit: FAudioDevice initialized.
+[2019.02.10-09.50.30:864][605]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.50.30:867][605]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.50.30
+[2019.02.10-09.50.30:867][605]LogWorld: Bringing up level for play took: 0.002191
+[2019.02.10-09.50.30:883][605]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.747
+[2019.02.10-09.50.30:883][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.50.30:937][606]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.50.32:013][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.50.32:480][752]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.50.32:480][752]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.50.32:499][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.50.32:561][760]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.50.32:565][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.50.37:062][200]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.50.37:063][200]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.50.37:081][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.50.37:124][206]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.50.37:128][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.50.38:307][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.50.38:307][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.50.38:342][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.50.38:343][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.50.38:382][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.50.38:433][322]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.10-09.51.16:237][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Framework/Maps/TestMap/TestMap_P' took 0.036
+[2019.02.10-09.52.12:490][249]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.53.52:854][ 93]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.53.52:926][ 93]LogBlueprint: Warning: [Compiler WBP_SinglePlayer] Could not find a variable named "WidgetToFocus" in 'WBP_SinglePlayer_C'.
+Make sure 'WBP_SinglePlayer_C' has been compiled for  Set WidgetToFocus
+[2019.02.10-09.53.52:938][ 93]LogBlueprint: Error: [Compiler WBP_SinglePlayer] The property associated with  Widget to Focus  could not be found in '/Game/Framework/Widgets/WBP_SinglePlayer.WBP_SinglePlayer_C'
+[2019.02.10-09.53.52:949][ 93]LogBlueprint: Warning: [Compiler WBP_SinglePlayer] [2039.20] Compile of WBP_SinglePlayer failed. 1 Fatal Issue(s) 1 Warning(s) [in 92 ms] (/Game/Framework/Widgets/WBP_SinglePlayer.WBP_SinglePlayer)
+[2019.02.10-09.53.56:091][425]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.54.01:942][ 61]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.55.23:735][186]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.55.24:462][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-09.55.24:504][239]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenu63BBFF8B4D4C240FED10059F7BAD4631.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-09.55.25:493][341]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.55.25:527][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.55.25:527][341]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-09.55.25:537][341]LogPlayLevel: [PlayLevel] Compiling WBP_SinglePlayer before play...
+[2019.02.10-09.55.25:747][341]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2019.02.10-09.55.25:748][341]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:55:25 PM)
+[2019.02.10-09.55.25:748][341]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.55.25:751][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003020s)
+[2019.02.10-09.55.25:752][341]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.55.25:752][341]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2019.02.10-09.55.25:752][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004009s)
+[2019.02.10-09.55.25:825][341]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.55.25:835][341]LogInit: FAudioDevice initialized.
+[2019.02.10-09.55.25:846][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.55.25:882][341]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.55.25:884][341]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.55.25
+[2019.02.10-09.55.25:885][341]LogWorld: Bringing up level for play took: 0.002368
+[2019.02.10-09.55.25:906][341]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.23
+[2019.02.10-09.55.25:906][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.55.25:996][342]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.55.26:940][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.55.27:329][456]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.55.27:329][456]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.55.27:349][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.55.28:306][543]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.55.28:307][543]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.55.28:327][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.55.28:758][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.55.28:759][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.55.28:771][584]LogSlate: Window 'MenuTemplateMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.10-09.55.28:805][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.55.28:805][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.55.28:900][585]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.02.10-09.55.43:197][ 79]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.55.45:492][303]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.55.46:128][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-09.55.46:170][345]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuF26012984E230878DE3B5283DD2F3FDE.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-09.55.47:743][517]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.55.48:179][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/Engine/WBP_CoreWidget" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset" SILENT=true
+[2019.02.10-09.55.48:199][523]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_CoreWidgetC4B1B6E14AD0A07A6277F399937CD5A8.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset'
+[2019.02.10-09.55.50:840][697]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-09.55.50:870][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-09.55.50:920][697]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer83212D0040DF0802038D2A981BBFF275.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-09.56.00:751][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.56.00:783][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.00:783][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.56.00:783][739]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:56:00 PM)
+[2019.02.10-09.56.00:784][739]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.56.00:787][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003394s)
+[2019.02.10-09.56.00:788][739]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.56.00:788][739]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2019.02.10-09.56.00:788][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004036s)
+[2019.02.10-09.56.00:861][739]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.56.00:871][739]LogInit: FAudioDevice initialized.
+[2019.02.10-09.56.00:880][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.56.00:913][739]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.56.00:916][739]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.56.00
+[2019.02.10-09.56.00:916][739]LogWorld: Bringing up level for play took: 0.002051
+[2019.02.10-09.56.00:936][739]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.8
+[2019.02.10-09.56.00:937][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.01:008][740]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.56.01:875][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.56.02:237][853]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.56.02:237][853]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.56.02:260][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.56.02:749][896]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-09.56.02:749][896]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-09.56.02:777][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.56.03:163][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.56.03:163][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.03:175][932]LogSlate: Window 'MenuTemplateMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.10-09.56.03:211][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.56.03:212][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.03:303][933]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.02.10-09.56.46:729][813]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-09.56.48:227][956]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.56.49:136][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.56.49:173][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.49:173][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.56.49:173][ 37]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:56:49 PM)
+[2019.02.10-09.56.49:173][ 37]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.56.49:177][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002937s)
+[2019.02.10-09.56.49:177][ 37]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.56.49:177][ 37]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.02.10-09.56.49:177][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003582s)
+[2019.02.10-09.56.49:254][ 37]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.56.49:265][ 37]LogInit: FAudioDevice initialized.
+[2019.02.10-09.56.49:274][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.56.49:308][ 37]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.56.49:311][ 37]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.56.49
+[2019.02.10-09.56.49:311][ 37]LogWorld: Bringing up level for play took: 0.001825
+[2019.02.10-09.56.49:327][ 37]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.808
+[2019.02.10-09.56.49:328][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.49:412][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.56.51:509][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.56.51:509][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.51:522][268]LogSlate: Window 'MenuTemplateMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.10-09.56.51:554][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.56.51:555][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.56.51:619][269]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.02.10-09.59.24:736][763]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.59.32:247][604]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-09.59.32:937][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/Engine/WBP_CoreWidget" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset" SILENT=true
+[2019.02.10-09.59.32:959][644]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_CoreWidget2D69679045E6C2318C86A0ABEC96A744.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset'
+[2019.02.10-09.59.38:839][292]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-09.59.43:332][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-09.59.43:367][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.59.43:367][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-09.59.43:367][753]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 9:59:43 PM)
+[2019.02.10-09.59.43:368][753]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-09.59.43:372][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004024s)
+[2019.02.10-09.59.43:373][753]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-09.59.43:373][753]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2019.02.10-09.59.43:373][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004802s)
+[2019.02.10-09.59.43:445][753]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-09.59.43:455][753]LogInit: FAudioDevice initialized.
+[2019.02.10-09.59.43:464][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.59.43:500][753]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-09.59.43:502][753]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-03.59.43
+[2019.02.10-09.59.43:502][753]LogWorld: Bringing up level for play took: 0.001949
+[2019.02.10-09.59.43:522][753]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.613
+[2019.02.10-09.59.43:523][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.59.43:614][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-09.59.44:436][834]LogScript: Warning: Accessed None trying to read property InitialFocusWidget
+	WBP_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_10.WBP_MainMenu_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.59.44:436][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InitialFocusWidget". Blueprint:  WBP_CoreWidget Function:  On Mouse Button Up Graph:  OnMouseButtonUp Node:  Set User Focus
+[2019.02.10-09.59.45:104][897]LogScript: Warning: Accessed None trying to read property InitialFocusWidget
+	WBP_SinglePlayer_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_10.WBP_SinglePlayer_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.59.45:104][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InitialFocusWidget". Blueprint:  WBP_CoreWidget Function:  On Mouse Button Up Graph:  OnMouseButtonUp Node:  Set User Focus
+[2019.02.10-09.59.45:789][956]LogScript: Warning: Accessed None trying to read property InitialFocusWidget
+	WBP_MainMenu_C /Engine/Transient.UnrealEdEngine_0:BP_CoreGameInstance_C_10.WBP_MainMenu_C_0
+	Function /Game/Framework/Core/Engine/WBP_CoreWidget.WBP_CoreWidget_C:OnMouseButtonUp:0025
+[2019.02.10-09.59.45:790][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InitialFocusWidget". Blueprint:  WBP_CoreWidget Function:  On Mouse Button Up Graph:  OnMouseButtonUp Node:  Set User Focus
+[2019.02.10-09.59.46:065][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-09.59.46:065][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.59.46:078][980]LogSlate: Window 'MenuTemplateMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.10-09.59.46:112][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-09.59.46:113][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-09.59.46:210][981]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.02.10-10.01.24:882][479]BlueprintLog: New page: Compile WBP_CoreWidget
+[2019.02.10-10.01.26:324][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/Engine/WBP_CoreWidget" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset" SILENT=true
+[2019.02.10-10.01.26:352][599]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_CoreWidget6637CD594EF15D3E7A137A85D46A0160.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Core/Engine/WBP_CoreWidget.uasset'
+[2019.02.10-10.02.21:243][792]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-10.02.21:882][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-10.02.21:933][835]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer38F3759C43DF56748A363C9D7E35CFA6.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-10.02.23:114][949]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-10.02.23:601][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-10.02.23:652][972]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuA6E20DEE49CE3207F1956EBEF75E0966.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-10.02.24:810][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.02.24:843][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.24:843][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-10.02.24:843][ 76]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:02:24 PM)
+[2019.02.10-10.02.24:844][ 76]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.02.24:847][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003135s)
+[2019.02.10-10.02.24:848][ 76]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.02.24:848][ 76]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2019.02.10-10.02.24:848][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004045s)
+[2019.02.10-10.02.24:919][ 76]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.02.24:928][ 76]LogInit: FAudioDevice initialized.
+[2019.02.10-10.02.24:963][ 76]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.02.24:965][ 76]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.02.24
+[2019.02.10-10.02.24:966][ 76]LogWorld: Bringing up level for play took: 0.000955
+[2019.02.10-10.02.24:978][ 76]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.843
+[2019.02.10-10.02.24:979][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.25:035][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.02.36:012][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.02.36:012][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.36:043][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.02.36:044][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.36:078][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.02.36:130][152]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.02.10-10.02.46:308][244]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.02.46:340][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.46:340][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-10.02.46:340][244]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:02:46 PM)
+[2019.02.10-10.02.46:341][244]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.02.46:344][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002755s)
+[2019.02.10-10.02.46:344][244]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.02.46:344][244]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2019.02.10-10.02.46:344][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003495s)
+[2019.02.10-10.02.46:419][244]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.02.46:428][244]LogInit: FAudioDevice initialized.
+[2019.02.10-10.02.46:462][244]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.02.46:464][244]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.02.46
+[2019.02.10-10.02.46:464][244]LogWorld: Bringing up level for play took: 0.000958
+[2019.02.10-10.02.46:477][244]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.342
+[2019.02.10-10.02.46:478][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.46:533][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.02.53:057][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.02.53:057][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.53:089][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.02.53:089][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.02.53:124][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.02.53:170][899]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.02.10-10.04.00:647][488]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-10.04.01:251][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-10.04.01:285][530]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer32EDD8FC468E5FBE3824CF9893F8ED14.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-10.04.02:361][648]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.04.02:394][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.02:394][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-10.04.02:405][648]LogPlayLevel: [PlayLevel] Compiling WBP_MainMenu before play...
+[2019.02.10-10.04.02:598][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2019.02.10-10.04.02:599][648]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:04:02 PM)
+[2019.02.10-10.04.02:599][648]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.04.02:602][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003122s)
+[2019.02.10-10.04.02:603][648]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.04.02:603][648]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2019.02.10-10.04.02:603][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003811s)
+[2019.02.10-10.04.02:675][648]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.04.02:685][648]LogInit: FAudioDevice initialized.
+[2019.02.10-10.04.02:695][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.02:732][648]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.04.02:735][648]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.04.02
+[2019.02.10-10.04.02:735][648]LogWorld: Bringing up level for play took: 0.001983
+[2019.02.10-10.04.02:754][648]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.618
+[2019.02.10-10.04.02:754][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.02:861][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.04.06:238][ 24]LogSlate: Window 'MenuTemplateMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.10-10.04.06:248][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.06:282][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.04.06:283][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.06:367][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.02.10-10.04.08:211][217]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.04.08:244][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.08:245][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-10.04.08:245][217]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:04:08 PM)
+[2019.02.10-10.04.08:245][217]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.04.08:248][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003133s)
+[2019.02.10-10.04.08:249][217]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.04.08:249][217]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2019.02.10-10.04.08:249][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003787s)
+[2019.02.10-10.04.08:336][217]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.04.08:345][217]LogInit: FAudioDevice initialized.
+[2019.02.10-10.04.08:379][217]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.04.08:381][217]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.04.08
+[2019.02.10-10.04.08:382][217]LogWorld: Bringing up level for play took: 0.001908
+[2019.02.10-10.04.08:395][217]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.259
+[2019.02.10-10.04.08:395][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.08:447][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.04.22:190][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.22:190][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.22:223][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.04.22:223][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.22:261][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.22:293][648]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.02.10-10.04.35:970][156]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-10.04.37:655][308]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-10.04.40:303][438]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-10.04.40:331][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-10.04.40:380][438]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuFC6DF5CF43F4E2B8E4A5E88F38448E86.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-10.04.40:388][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-10.04.40:425][438]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayerF035EACC446F6B154ACDFAB41C6D0AD2.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-10.04.41:643][550]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.04.41:676][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.41:676][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-10.04.41:676][550]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:04:41 PM)
+[2019.02.10-10.04.41:677][550]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.04.41:680][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003054s)
+[2019.02.10-10.04.41:680][550]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.04.41:680][550]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.02.10-10.04.41:680][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003699s)
+[2019.02.10-10.04.41:753][550]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.04.41:763][550]LogInit: FAudioDevice initialized.
+[2019.02.10-10.04.41:794][550]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.04.41:796][550]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.04.41
+[2019.02.10-10.04.41:796][550]LogWorld: Bringing up level for play took: 0.001074
+[2019.02.10-10.04.41:810][550]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.326
+[2019.02.10-10.04.41:810][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.41:863][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.04.44:221][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.44:221][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.44:257][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.04.44:257][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.44:296][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.44:338][792]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.02.10-10.04.45:757][934]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.04.45:790][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.45:790][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-10.04.45:790][934]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:04:45 PM)
+[2019.02.10-10.04.45:790][934]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.04.45:794][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2019.02.10-10.04.45:794][934]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.04.45:794][934]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.02.10-10.04.45:795][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.004146s)
+[2019.02.10-10.04.45:870][934]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.04.45:879][934]LogInit: FAudioDevice initialized.
+[2019.02.10-10.04.45:914][934]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.04.45:916][934]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.04.45
+[2019.02.10-10.04.45:916][934]LogWorld: Bringing up level for play took: 0.001099
+[2019.02.10-10.04.45:930][934]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.206
+[2019.02.10-10.04.45:930][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.45:984][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.04.59:376][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.59:376][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.59:412][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.04.59:413][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.04.59:450][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.04.59:494][321]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.02.10-10.05.08:658][350]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-10.05.10:147][486]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-10.05.11:225][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-10.05.11:267][574]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenuAFE06D1C483208F89380D395814A26D2.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-10.05.14:084][775]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-10.05.14:110][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-10.05.14:150][775]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayerCF9146A74A5FF057693CEEBFEDCADC5F.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-10.05.15:399][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.05.15:432][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.05.15:432][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-10.05.15:432][896]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:05:15 PM)
+[2019.02.10-10.05.15:433][896]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.05.15:436][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003020s)
+[2019.02.10-10.05.15:436][896]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.05.15:436][896]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2019.02.10-10.05.15:436][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003663s)
+[2019.02.10-10.05.15:511][896]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.05.15:520][896]LogInit: FAudioDevice initialized.
+[2019.02.10-10.05.15:552][896]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.05.15:553][896]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.05.15
+[2019.02.10-10.05.15:554][896]LogWorld: Bringing up level for play took: 0.000953
+[2019.02.10-10.05.15:567][896]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P -0.568
+[2019.02.10-10.05.15:567][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.05.15:621][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.05.28:748][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.05.28:748][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.05.28:784][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.05.28:785][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.05.28:823][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.05.28:854][258]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.02.10-10.06.44:639][ 70]BlueprintLog: New page: Compile WBP_SinglePlayer
+[2019.02.10-10.06.45:216][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-10.06.45:257][107]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayerED0E051F41AB1A5A73314AA2D8F73983.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-10.07.22:306][309]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.02.10-10.07.22:852][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_MainMenu" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2019.02.10-10.07.22:891][341]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MainMenu0BE671C149CB27AA8BB29393B7F493B3.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_MainMenu.uasset'
+[2019.02.10-10.07.52:964][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Framework/Maps/TestMap/TestMap_P' took 0.033
+[2019.02.10-10.08.29:307][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SinglePlayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset" SILENT=true
+[2019.02.10-10.08.29:349][119]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SinglePlayer1D6536654F8CAD1F95E6DA936BF72844.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SinglePlayer.uasset'
+[2019.02.10-10.09.23:537][974]BlueprintLog: New page: Compile WBP_SplitScreen
+[2019.02.10-10.09.27:020][208]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-10.09.27:049][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Multiplayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Multiplayer.uasset" SILENT=true
+[2019.02.10-10.09.27:087][208]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_Multiplayer0F8190EF4AEEF248531AA1995A9AE40F.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Multiplayer.uasset'
+[2019.02.10-10.09.27:094][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Options" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Options.uasset" SILENT=true
+[2019.02.10-10.09.27:146][208]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_OptionsD09A87C24BAD1A25CAF781A9FAA10D22.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Options.uasset'
+[2019.02.10-10.09.27:155][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SplitScreen" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SplitScreen.uasset" SILENT=true
+[2019.02.10-10.09.27:201][208]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SplitScreen2AE5B5DD481D90DE2132469C7A632883.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SplitScreen.uasset'
+[2019.02.10-10.09.27:212][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Template" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Template.uasset" SILENT=true
+[2019.02.10-10.09.27:245][208]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_Template94C627664458E44430C8C3BA07DEE156.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Template.uasset'
+[2019.02.10-10.09.28:077][285]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.09.28:110][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.09.28:110][285]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-10.09.28:118][285]LogPlayLevel: [PlayLevel] Compiling WBP_Multiplayer before play...
+[2019.02.10-10.09.28:282][285]LogPlayLevel: [PlayLevel] Compiling WBP_Options before play...
+[2019.02.10-10.09.28:450][285]LogPlayLevel: [PlayLevel] Compiling WBP_Template before play...
+[2019.02.10-10.09.28:714][285]LogPlayLevel: PlayLevel: Blueprint regeneration took 603 ms (3 blueprints)
+[2019.02.10-10.09.28:714][285]PIE: New page: PIE session: TestMap_P (Feb 9, 2019, 10:09:28 PM)
+[2019.02.10-10.09.28:714][285]LogPlayLevel: Creating play world package: /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P
+[2019.02.10-10.09.28:718][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003139s)
+[2019.02.10-10.09.28:718][285]LogAIModule: Creating AISystem for world TestMap_P
+[2019.02.10-10.09.28:718][285]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2019.02.10-10.09.28:719][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/TestMap/TestMap_P.TestMap_P to /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P (0.003871s)
+[2019.02.10-10.09.28:793][285]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-10.09.28:804][285]LogInit: FAudioDevice initialized.
+[2019.02.10-10.09.28:837][285]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2019.02.10-10.09.28:839][285]LogWorld: Bringing World /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P.TestMap_P up for play (max tick rate 0) at 2019.02.10-04.09.28
+[2019.02.10-10.09.28:839][285]LogWorld: Bringing up level for play took: 0.001167
+[2019.02.10-10.09.28:853][285]PIE: Play in editor start time for /Game/Framework/Maps/TestMap/UEDPIE_0_TestMap_P 0.717
+[2019.02.10-10.09.28:853][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.09.28:896][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.09.36:564][ 42]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.10-10.09.36:564][ 42]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.02.10-10.09.36:583][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-10.09.39:920][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.09.39:920][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.09.39:954][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-10.09.39:954][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.09.39:991][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-10.09.40:046][375]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.02.10-10.11.05:836][163]LogSlate: Window 'Save Content' being destroyed
+[2019.02.10-10.11.05:864][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Multiplayer" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Multiplayer.uasset" SILENT=true
+[2019.02.10-10.11.05:900][163]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_MultiplayerD4A315294FDE33FD4D07AFB43B9F1025.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Multiplayer.uasset'
+[2019.02.10-10.11.05:908][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Options" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Options.uasset" SILENT=true
+[2019.02.10-10.11.05:949][163]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_OptionsC35F12B74F7446B88DEF53B43935E524.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Options.uasset'
+[2019.02.10-10.11.05:958][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_SplitScreen" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SplitScreen.uasset" SILENT=true
+[2019.02.10-10.11.06:002][163]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_SplitScreen8F7E4E7D407F5FE0F3DE469C9188AB42.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_SplitScreen.uasset'
+[2019.02.10-10.11.06:010][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Widgets/WBP_Template" FILE="../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Template.uasset" SILENT=true
+[2019.02.10-10.11.06:043][163]LogSavePackage: Moving '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Saved/WBP_TemplateEB82B35C4C99413202E2EB924895305A.tmp' to '../../../../../../../GIT/MenuTemplateMP/MenuTemplateMP/Content/Framework/Widgets/WBP_Template.uasset'
+[2019.02.10-10.11.07:138][270]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.10-10.11.07:175][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P' with GeneratedClass '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P_C' with ClassGeneratedBy '/Game/Framework/Maps/TestMap/TestMap_P.TestMap_P:PersistentLevel.TestMap_P'
+[2019.02.10-10.11.07:175][270]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.10-10.11.07:182][270]LogPlayLevel: [PlayLevel] Compiling WBP_Multiplayer before play...
+[2019.02.10-10.11.07:383][270]LogPlayLevel: [PlayLevel] Compiling WBP_Options before play...
+[2019.02.10-10.11.07:550][270]LogPlayLevel: [PlayLevel] Compiling WBP_SplitScreen before play...
+[2019.02.10-10.11.07:709][270]LogPlayLevel: [PlayLevel] Compiling WBP_Template before play...
+[2019.02.10-10.11.07:899][270]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.10-10.11.09:598][270]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.698 s
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: 
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: SObjectWidget for 'WBPF_Button_C /Engine/Transient.World_2:WBP_Multiplayer_C_105.WidgetTree_0.SplitScreen' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: Stack: 
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff96fd89033 UE4Editor-UMG.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abb5df6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe9e5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abb5cee UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe9a5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbdb5a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97edc71ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abb5cee UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe9a5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abb5cee UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe9a5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:598][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abb5cee UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe9a5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbdb5a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe877 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abb5cee UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbe9a5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97abbdb5a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97eff25c7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97eff60f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff96fe5389b UE4Editor-UMG.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff9781bc9e1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97818d6ee UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97810fda2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff97810f2e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff96440225c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff9643ea45c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff9644092e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff963e01891 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff964722346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff787596225 UE4Editor.exe!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff7875a596c UE4Editor.exe!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff7875a59ea UE4Editor.exe!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff7875b48da UE4Editor.exe!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff7875b659a UE4Editor.exe!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff9c3583034 KERNEL32.DLL!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: [Callstack] 0x00007ff9c5673691 ntdll.dll!UnknownFunction []
+[2019.02.10-10.11.09:599][270]LogOutputDevice: Error: 
+[2019.02.10-10.11.09:600][270]LogStats:                SubmitErrorReport -  0.000 s
